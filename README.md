@@ -6,6 +6,7 @@
      - Video playback controls
      - Sound toggle
      - Responsive design
+     - 5s Ad-hold 
 
      ## How to run
      1. Download the code
