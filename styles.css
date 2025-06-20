@@ -28,15 +28,6 @@ body {
     width: 100vw;
     position: relative;
     scroll-snap-align: start;
-    right: 0;
-    padding: 20px 0 20px 0;
-    background: linear-gradient(
-      to top,
-      rgba(0,0,0,0.7) 0%,
-      rgba(0,0,0,0.0) 95%
-    );
-    width: 100%;
-    /* Edge-to-edge background */
 }
 
 video {
@@ -54,7 +45,7 @@ video {
     background: linear-gradient(
       to top,
       rgba(0,0,0,0.7) 0%,
-      rgba(0,0,0,0.0) 60%
+      rgba(0,0,0,0.0) 95%
     );
     width: 100%;
     /* Edge-to-edge background */
