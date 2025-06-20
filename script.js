@@ -1,20 +1,8 @@
 const videoFeedData = [
   {
-    videoSrc: "video1.mp4",
-    title: "June 17, 2025",
-    description: "President Trump has lumped together violent and peaceful protesters when speaking about the demonstrations in Los Angeles.",
-    isAd: false
-  },
-  {
-    videoSrc: "video2.mp4",
-    title: "June 16, 2025",
-    description: "President Trump appointed Amy Coney Barrett to the Supreme Court to clinch a conservative legal revolution.",
-    isAd: false
-  },
-  {
-    videoSrc: "video3.mp4",
-    title: "June 15, 2025",
-    description: "McCormick Place, a convention center in Chicago, went from being a killer of migratory birds to a success story. Our reporter explains how.",
+    videoSrc: "video5.mp4",
+    title: "June 14, 2025",
+    description: "Here are four summer books our editors are looking forward to.",
     isAd: false
   },
   {
@@ -24,30 +12,15 @@ const videoFeedData = [
     isAd: false
   },
   {
-    videoSrc: "video5.mp4",
-    title: "June 14, 2025",
-    description: "Here are four summer books our editors are looking forward to.",
+    videoSrc: "video10.mp4",
+    title: "June 13, 2025",
+    description: "How does the NBA draft lottery actually work?",
     isAd: false
   },
   {
-    videoSrc: "ad.mp4",
-    adMessage: "That's his name: Stitch! 💙 Lilo And Stitch is now playing in theaters!",
-    adLogo: "disney-logo.png",
-    adLabel: "AD",
-    adNextThumbnail: "next-thumbnail.jpg",
-    adNextTitle: "The U-Shaped Curve of Happiness",
-    isAd: true
-  },
-  {
-    videoSrc: "video6.mp4",
+    videoSrc: "video3.mp4",
     title: "June 15, 2025",
-    description: "For decades, research showed that happiness tended to be high when they were young, then dipped in midlife, only to rise again as they grew old.",
-    isAd: false
-  },
-  {
-    videoSrc: "video7.mp4",
-    title: "June 12, 2025",
-    description: "Restaurant-worthy chicken at home?",
+    description: "McCormick Place, a convention center in Chicago, went from being a killer of migratory birds to a success story. Our reporter explains how.",
     isAd: false
   },
   {
@@ -57,15 +30,42 @@ const videoFeedData = [
     isAd: false
   },
   {
+    videoSrc: "ad.mp4",
+    adMessage: "That's his name: Stitch! 💙 Lilo And Stitch is now playing in theaters!",
+    adLogo: "disney-logo.png",
+    adLabel: "AD",
+    adNextThumbnail: "next-thumbnail.jpg",
+    adNextTitle: "Make restaurant-worthy chicken",
+    isAd: true
+  },
+  {
+    videoSrc: "video7.mp4",
+    title: "June 12, 2025",
+    description: "Restaurant-worthy chicken at home?",
+    isAd: false
+  },
+  {
+    videoSrc: "video2.mp4",
+    title: "June 16, 2025",
+    description: "President Trump appointed Amy Coney Barrett to the Supreme Court to clinch a conservative legal revolution.",
+    isAd: false
+  },
+  {
+    videoSrc: "video6.mp4",
+    title: "June 15, 2025",
+    description: "For decades, research showed that happiness tended to be high when they were young, then dipped in midlife, only to rise again as they grew old.",
+    isAd: false
+  },
+  {
     videoSrc: "video9.mp4",
     title: "June 10, 2025",
     description: "Jeff Goldblum's new album features his \"Wicked\" co-stars Ariana Grande and Cynthia Erivo.",
     isAd: false
   },
   {
-    videoSrc: "video10.mp4",
-    title: "June 13, 2025",
-    description: "How does the NBA draft lottery actually work?",
+    videoSrc: "video1.mp4",
+    title: "June 17, 2025",
+    description: "President Trump has lumped together violent and peaceful protesters when speaking about the demonstrations in Los Angeles.",
     isAd: false
   }
 ];
