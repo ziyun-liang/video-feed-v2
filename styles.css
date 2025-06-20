@@ -14,7 +14,7 @@ body {
 }
 
 .video-feed {
-    height: 100vh;
+    height: 100dvh;
     width: 100vw;
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
@@ -24,10 +24,19 @@ body {
 }
 
 .video-container {
-    height: 100vh;
+    height: 100dvh;
     width: 100vw;
     position: relative;
     scroll-snap-align: start;
+    right: 0;
+    padding: 20px 0 20px 0;
+    background: linear-gradient(
+      to top,
+      rgba(0,0,0,0.7) 0%,
+      rgba(0,0,0,0.0) 95%
+    );
+    width: 100%;
+    /* Edge-to-edge background */
 }
 
 video {
